@@ -3,7 +3,6 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 ---
 ### Languages I know:
 * JavaScript ✔
-* HTML & CSS 🟠
-	* Sort-of.
+* HTML & CSS ✔
 * Java 📑
 	* Learning.
