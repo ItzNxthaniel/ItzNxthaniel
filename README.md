@@ -16,6 +16,6 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 * Schools Website.
 * BoredomHub Website.
 * Possible update for SchanaModGlobalChat.
-* A few dayz mod ideas, I'd like to make.
+* DayZ mod ideas, I'd like to make.
 
 *They're all going terribly. Packed with work.*
