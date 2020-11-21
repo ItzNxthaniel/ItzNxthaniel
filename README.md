@@ -6,3 +6,4 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 * HTML & CSS ✔
 * Java 📑
 	* Learning.
+* C++ ⛔
