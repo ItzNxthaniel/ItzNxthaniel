@@ -1,9 +1,10 @@
 # Nathaniel M
-Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Well, I'm still considering myself new.
+Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Well, I'm still considering myself new. I think I'm a Backend Developer.
 ---
 ### Languages I know:
 * JavaScript ✔
 * HTML & CSS ✔
+	* Barely, don't like Front-End.
 * Java 📑
 	* Learning.
 
