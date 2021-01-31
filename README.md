@@ -8,6 +8,8 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 * Java 📑
 	* Learning.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzNathaniel)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Current Projects:
 * High School & Online ASL Class.
 * Customized DayZ Map using [DayZ Editor](https://github.com/InclementDab/DayZ-Editor).
