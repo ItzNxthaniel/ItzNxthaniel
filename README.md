@@ -8,8 +8,8 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 * Java 📑
 	* Learning.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzNathaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&hide_border)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNathaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&hide_border)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzNathaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNathaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&hide_border=true)
 
 ### Current Projects:
 * High School & Online ASL Class.
