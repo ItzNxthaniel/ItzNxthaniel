@@ -14,11 +14,7 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 
 ### Current Projects:
 * High School & Online ASL Class.
-* Customized DayZ Map using [DayZ Editor](https://github.com/InclementDab/DayZ-Editor).
-* Echo Bot.
-* BoredomHub Bot.
+* Customized DayZ Map using [DayZ Editor](https://github.com/InclementDab/DayZ-Editor). - Completed
+* Echo Bot. - Paused for the moment.
+* BoredomHub Bot. - Completed (Still working on/updating)
 * BoredomHub Website.
-* Possible update for SchanaModGlobalChat.
-* DayZ mod ideas, I'd like to make.
-
-*They're all going terribly. Packed with work.*
