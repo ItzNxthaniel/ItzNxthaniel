@@ -5,6 +5,8 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 * JavaScript ✔
 * HTML & CSS ✔
 	* Barely, don't like Front-End.
+* Lua ✔
+* C# 🟠
 * Java 📑
 	* Learning.
 
