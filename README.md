@@ -14,7 +14,7 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNxthaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&hide_border=true)
 
 ### Current Projects:
-* High School & Online ASL Class.
+* School & Online ASL Class.
 * Customized DayZ Map using [DayZ Editor](https://github.com/InclementDab/DayZ-Editor). - Completed
 * Echo Bot. - Paused for the moment.
 * BoredomHub Bot. - Completed (Still working on/updating)
