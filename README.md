@@ -11,8 +11,7 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 	* Learning.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzNxthaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&icon_color=cc3333&hide_border=true&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzNxthaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&hide_border=true&layout=compact&lang_count=10&count_private=true)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItzNxthaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&hide_border=true&layout=compact)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItzNxthaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&hide_border=true&layout=compact)](https://wakatime.com/@ItzNxthaniel)
 
 ### Current Projects:
 * School & Online ASL Class.
