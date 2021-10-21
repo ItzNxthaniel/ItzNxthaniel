@@ -17,5 +17,3 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 * [ReGuilded](https://github.com/ReGuilded)
 * School & Online ASL Class.
 * Echo Bot. - Paused for the moment.
-* BoredomHub Bot. - Completed (Still working on/updating)
-* BoredomHub Website.
