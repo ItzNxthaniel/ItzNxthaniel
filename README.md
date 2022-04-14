@@ -7,5 +7,5 @@ Hi, welcome to my profile! 😁 I'm a fairly new developer, started in 2017. Wel
 
 ### Current Projects:
 * [ReGuilded](https://github.com/ReGuilded)
+* [Yoki-Labs](https://guilded.com/yoki)
 * School & Online ASL Class.
-* Echo Bot. - Paused for the moment.
