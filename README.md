@@ -1,14 +1,39 @@
-# Nathaniel M
-Hey there, I'm Nathaniel! 💞
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nathaniel!
+==================================================================================================================================
 
-- 🤓 Founder & Project Lead @ [ReGuilded](https://github.com/reguilded)
-- 💛 [Guilded](https://github.com/teamguilded) Community Moderator, Partner, & Gil Gang Member.
----
+Founder & Project Lead @ ReGuilded
+----------------------------------
 
-### Some Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzNxthaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&icon_color=cc3333&hide_border=true&count_private=true&show_icons=true)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItzNxthaniel&bg_color=202020&title_color=cc3333&text_color=ffffff&hide_border=true&layout=compact)](https://wakatime.com/@ItzNxthaniel)
+I've been programming since 2017, and have taught myself everything I know. I'm going to college for a Bachelor of Science in CyberSecurity, estimated to graduate in 2028.
 
-### Current Projects:
-* [ReGuilded](https://github.com/ReGuilded)
-* [Yoki-Labs](https://guilded.com/yoki)
+* 🌍  I'm based in New York
+* 🖥️  See my portfolio at [My portfolio (not live yet):](http://itznxthaniel.dev)
+* ✉️  You can contact me at [me@itznxthaniel.dev](mailto:me@itznxthaniel.dev)
+* 🚀  I'm currently working on [ReGuilded](http://reguilded.dev)
+* 🧠  I'm learning CyberSecurity
+
+<a href="https://www.github.com/itznxthaniel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/itznxthaniel?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.x.com/itznxthaniel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/itznxthaniel?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/itznxthaniel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/itznxthaniel?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+### Skills
+
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/itznxthaniel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/itznxthaniel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@itznxthaniel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/itznxthaniel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/itznxthaniel"><img src="https://github-readme-stats.vercel.app/api?username=itznxthaniel&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="itznxthaniel's GitHub stats" /></a>
+
+<a href="https://github.com/itznxthaniel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itznxthaniel&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
