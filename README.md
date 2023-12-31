@@ -7,7 +7,7 @@ Founder & Project Lead @ ReGuilded
 I've been programming since 2017, and have taught myself everything I know. I'm going to college for a Bachelor of Science in CyberSecurity, estimated to graduate in 2028.
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [itznxthaniel.dev (not live yet):](https://itznxthaniel.dev)
+* 🖥️  See my portfolio at [itznxthaniel.dev (not live yet)](https://itznxthaniel.dev)
 * ✉️  You can contact me at [me@itznxthaniel.dev](mailto:me@itznxthaniel.dev)
 * 🚀  I'm currently working on [ReGuilded](https://reguilded.dev)
 * 🧠  I'm learning CyberSecurity
