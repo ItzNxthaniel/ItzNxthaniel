@@ -36,4 +36,9 @@ src="https://img.shields.io/twitch/status/itznxthaniel?logo=twitchsx&style=for-t
 
 <a href="http://www.github.com/itznxthaniel"><img src="https://github-readme-stats.vercel.app/api?username=itznxthaniel&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="itznxthaniel's GitHub stats" /></a>
 
-<a href="https://github.com/itznxthaniel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itznxthaniel&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/itznxthaniel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itznxthaniel&langs_count=10title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>WakaTime Stats</b>
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=itznxthaniel&layout=compact&langs_count=16&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Time%20spent%20in%20Languages%20%28All%20Time%29)](https://github.com/itznxthaniel)
+> Only top 16 languages & time since June 5th, 2021. (Tracked by <a href="https://wakatime.com/">Wakatime</a>)
