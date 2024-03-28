@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Founder & Project Lead @ ReGuilded
 ----------------------------------
 
-I've been programming since 2017, and have taught myself everything I know. I'm going to college for a Bachelor of Science in CyberSecurity, estimated to graduate in 2028.
+I've been programming since 2017, and have taught myself everything I know. I'm going to college for a Bachelor of Science in CyberSecurity, estimated to graduate in 2027.
 
-* 🌍  I'm based in New York
-* 🖥️  See my portfolio at [itznxthaniel.dev (not live yet)](https://itznxthaniel.dev)
-* ✉️  You can contact me at [me@itznxthaniel.dev](mailto:me@itznxthaniel.dev)
-* 🚀  I'm currently working on [ReGuilded](https://reguilded.dev)
-* 🧠  I'm learning CyberSecurity
+* 🌍  I'm based in New York!
+* 🖥️  See my portfolio at [itznxthaniel.dev (not live yet)](https://itznxthaniel.dev)!
+* ✉️  You can contact me at [me@itznxthaniel.dev](mailto:me@itznxthaniel.dev)!
+* 🚀  I'm currently working on [ReGuilded](https://reguilded.dev)!
+* 🧠  I'm studying CyberSecurity!
 
 <a href="https://www.github.com/itznxthaniel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itznxthaniel?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.x.com/itznxthaniel" target="_blank" rel="noreferrer"><img
