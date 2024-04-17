@@ -10,7 +10,7 @@ I've been programming since 2017, and have taught myself everything I know. I'm 
 * 🖥️  See my portfolio at [itznxthaniel.dev (not live yet)](https://itznxthaniel.dev)!
 * ✉️  You can contact me at [me@itznxthaniel.dev](mailto:me@itznxthaniel.dev)!
 * 🚀  I'm currently working on [ReGuilded](https://reguilded.dev)!
-* 🧠  I'm studying CyberSecurity!
+* 🧠  I'm a Double Major in Computer Science & CyberSecurity!
 
 <a href="https://www.github.com/itznxthaniel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itznxthaniel?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.x.com/itznxthaniel" target="_blank" rel="noreferrer"><img
