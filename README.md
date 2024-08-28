@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nathaniel!
 ==================================================================================================================================
 
-Founder & Project Lead @ ReGuilded
+
 ----------------------------------
 
 I've been programming since 2017, and have taught myself everything I know. I'm going to college for a Bachelor of Science in CyberSecurity, estimated to graduate in 2027.
