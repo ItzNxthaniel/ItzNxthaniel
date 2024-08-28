@@ -9,7 +9,6 @@ I've been programming since 2017, and have taught myself everything I know. I'm 
 * 🌍  I'm based in New York!
 * 🖥️  See my portfolio at [itznxthaniel.dev (not live yet)](https://itznxthaniel.dev)!
 * ✉️  You can contact me at [me@itznxthaniel.dev](mailto:me@itznxthaniel.dev)!
-* 🚀  I'm currently working on [ReGuilded](https://reguilded.dev)!
 * 🧠  I'm a Double Major in Computer Science & CyberSecurity!
 
 <a href="https://www.github.com/itznxthaniel" target="_blank" rel="noreferrer"><img
