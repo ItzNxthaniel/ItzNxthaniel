@@ -14,7 +14,7 @@ I've been programming since 2017, and have taught myself everything I know. I'm 
 
 <a href="https://www.github.com/itznxthaniel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itznxthaniel?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.x.com/itznxthaniel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/itznxthaniel?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/itznxthaniel?logo=x&style=for-the-badge&color=ef4444&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/itznxthaniel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/itznxthaniel?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
