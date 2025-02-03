@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ----------------------------------
 
-I've been programming since 2017, and have taught myself everything I know. I'm going to college for a Bachelor of Science in CyberSecurity, estimated to graduate in 2027.
+I've been programming since 2017, and have taught myself everything I know. I'm going to college for a Bachelor of Science in Computer Science & CyberSecurity, estimated to graduate in 2027.
 
 * 🌍  I'm based in New York!
 * 🖥️  See my portfolio at [itznxthaniel.dev (not live yet)](https://itznxthaniel.dev)!
