@@ -18,19 +18,35 @@ src="https://img.shields.io/twitter/follow/itznxthaniel?logo=x&style=for-the-bad
 /></a><a href="https://www.twitch.tv/itznxthaniel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/itznxthaniel?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
+## Nathaniel’s Projects
 
+### Ongoing
+- **[BoredomHub](https://boredomhub.net)** – ASP.NET + Blazor website for BoredomHub LLC. Plans include a staff dashboard, ticket system, onboarding workflows, player management, and RCON integration for game servers.
+- **TrueMonumentClaim (Rust Plugin)** – A smart Rust server claiming plugin using the Carbon framework. Marks monuments as PVP or PVE depending on who claims them, dynamically switching players’ PVP statuses.
+- **[TrueWelcomer](https://codefling.com/plugins/truewelcomer)** – Smarter welcome plugin for Rust (Oxide). Welcomes new players, greets returning players, and shows customizable join/leave messages.
+- **[TrueStaffToggle](https://codefling.com/plugins/true-staff-toggle)** – Rust plugin (Oxide) that toggles staff permissions on and off-duty, altering permission levels and Rust auth levels accordingly.
+- **[AutoVMessages](https://codefling.com/plugins/truewelcomer) (Velocity Plugin)** – A Velocity proxy plugin for automatically rotating broadcast messages with MiniMessage formatting support on Velocity 3.x.
+- **Obble (Roblox Game)** – A daily obby experience built on Roblox. Development is in early stages and still evolving.
 
+### Previous Work
+- **[ReGuilded](https://github.com/ReGuilded/ReGuilded)** – A client modification for the now-shut-down Guilded chat platform. Built to let users customize their client experience; worked closely with Guilded staff during development. This project included a Client Mod, an Installer, and a Website.
+- **[Rust Async Server/Client Chat](https://github.com/ScottADeJong/rust_async_chat_server_and_client)** – A Rust binary and library originally started as a class project and expanded into a fully functioning asynchronous chat system.
+- **[Restrict Placement](https://umod.org/plugins/restrict-placement) (uMod Plugin)** – A Rust plugin restricting placement of configured prefabs with permission-based bypass support.
+
+### Planned Work
+- **Tetris-similar game in Roblox** - A very similar game to Tetris, with everything different to not break any copyright :)
+- **A US-State geography guessing game** - A game inspired by a dream that was told to me. Where you are in one state, and have to guess the distance to another state.
+
+## Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
 
-### Socials
-
+## Socials
 <p align="left"> <a href="https://www.github.com/itznxthaniel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/itznxthaniel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/itznxthaniel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
