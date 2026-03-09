@@ -30,7 +30,7 @@ src="https://img.shields.io/twitch/status/itznxthaniel?logo=twitchsx&style=for-t
 
 ### Previous Work
 - **[ReGuilded](https://github.com/ReGuilded/ReGuilded)** – A client modification for the now-shut-down Guilded chat platform. Built to let users customize their client experience; worked closely with Guilded staff during development. This project included a Client Mod, an Installer, and a Website.
-- **[Rust Async Server/Client Chat](https://github.com/ScottADeJong/rust_async_chat_server_and_client)** – A Rust binary and library originally started as a class project and expanded into a fully functioning asynchronous chat system.
+- **[Rust Async Server/Client Chat](https://codeberg.org/sdejong/rust_async_chat_server_and_client)** – A Rust binary and library originally started as a class project and expanded into a fully functioning asynchronous chat system.
 - **[Restrict Placement](https://umod.org/plugins/restrict-placement) (uMod Plugin)** – A Rust plugin restricting placement of configured prefabs with permission-based bypass support.
 
 ### Planned Work
