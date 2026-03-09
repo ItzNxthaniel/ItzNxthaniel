@@ -25,7 +25,7 @@ src="https://img.shields.io/twitch/status/itznxthaniel?logo=twitchsx&style=for-t
 - **TrueMonumentClaim (Rust Plugin)** – A smart Rust server claiming plugin using the Carbon framework. Marks monuments as PVP or PVE depending on who claims them, dynamically switching players’ PVP statuses.
 - **[TrueWelcomer](https://codefling.com/plugins/truewelcomer)** – Smarter welcome plugin for Rust (Oxide). Welcomes new players, greets returning players, and shows customizable join/leave messages.
 - **[TrueStaffToggle](https://codefling.com/plugins/true-staff-toggle)** – Rust plugin (Oxide) that toggles staff permissions on and off-duty, altering permission levels and Rust auth levels accordingly.
-- **[AutoVMessages](https://codefling.com/plugins/truewelcomer) (Velocity Plugin)** – A Velocity proxy plugin for automatically rotating broadcast messages with MiniMessage formatting support on Velocity 3.x.
+- **[AutoVMessages](https://hangar.papermc.io/ItzNxthaniel/AutoVMessages) (Velocity Plugin)** – A Velocity proxy plugin for automatically rotating broadcast messages with MiniMessage formatting support on Velocity 3.x.
 - **Obble (Roblox Game)** – A daily obby experience built on Roblox. Development is in early stages and still evolving.
 
 ### Previous Work
